@@ -5,6 +5,7 @@ A cleaned up version of 43999.py since it was borked on Exploit-DB - ported to p
 # Usage
 ```
 git clone https://github.com/pry0cc/uniview-password-disclosure/
+cd uniview-password-disclosure/
 python3 exploit.py http://ip:port/
 ```
 
